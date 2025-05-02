@@ -1,3 +1,5 @@
+# ⚠️ This was my FIRST react app, just to learn! ⚠️
+
 # Simple Weather App created in ReactJS
 Base created from Create-React-App. Scripts to run below.
 This was created as learning purpose, so feel free to edit this and learn something new :D
